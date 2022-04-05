@@ -1,1 +1,3 @@
 # Red_Wine_Market_Intelligence_for_Supply_Chain_Management
+
+Use Selenium for collecting over 10,000 wine products from worldwide websites. Build complete ETL data pipeline using Airflow, Docker, Kubernetes, and MySQL for task scheduling, and storage. Utilize GCP and its related cloud services for reliable and continuous performance. Perform machine learning such as supervised learning-classification, and linear regression for suggesting red wine price setting and purchasing, and further investigation of red wine market. Deliver results of machine learning and business recommendations through Streamlit for interactive and user-friendly presentation experience anytime.
