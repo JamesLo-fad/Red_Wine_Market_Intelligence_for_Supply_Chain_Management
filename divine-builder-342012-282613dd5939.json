@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "divine-builder-342012",
+  "private_key_id": "282613dd5939572ce2ec789decce9e02780b8dd9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCcqZtxX1wqoiGn\n/OaP4kpb6GWPIcvEzgD2PVcyiDu60FB+1KMWMsYWVtFkgRkcYRs3QgutfFtoh4Iu\nwYfwiaGN0Un83cUSZ1c/9XZGbE5jCVpJ0ULdiES828N+/Ql8pdOM98dl6Pwj7mgA\n0CPQIYy30cbo4VL65YSbhBDZG3S1s1aPeoetFssKqy4yJpcsoYPtmaAWs+yb4JJB\nJhvhcT4cbgcd1h3GUK6woqU7GCzonxHvLEQPB3oww/xQmPQckqUI+Bn0Ik6blXbU\nvaTMwqsRJBY1jejiJuK2AFSg6+piLVJKnrSLaBIjcMKay0RaXu2cfwuaTkclc/Sy\nS+g+ByinAgMBAAECggEAQHY/mkZRP8+nxp425rSHwUqeY2dWF7xmQ+wYkZfh7+wg\nexeWpZ8tx+pgTZkbUoSYdMPN10xItnmvtPp4K58OJTMdXRmJqhlwmsYvLSoKlRC3\noJElEM+t7QIGbp3CxhHbuvEHkKTt/wDttYvveIgdhVOho5h3kvpW9sDAR/1WqB6m\njmv/ka77AjU35brVtc4AUtdvzrkMhAwzo5Oe898EoA9VB3k/VvTEmIqF5AerNhmE\nXF6v1Cybyab+3BoF0fHj7s2xenfb3pdrZrfTy7UG4g09ZVNqQrayGRm/R+sWN/RA\nRJKYUWD31JQHpXB+iM2IPlhVirdA9qTrrTnlJHMZaQKBgQDP7mTeqLT88d3rvQvi\nGB9+pLzd2eeHBPUjgtDD78sIN3I/chxX/8vEZiNYBAjpEDjTtt9iEQaJbstDM5gZ\nhAaVI59pONwANb3qcJPn8xWTNcvRDuoWiwYkdBMAxGT/IrZRfuGjVHpTXOWA/NM/\niB5nNZ6AFryxtwqf5HwNF7DhHwKBgQDA4RLLGKA+wtfJYEr7LBn0TXurdPd3Klaj\nYYeQBoQGfACxHxSVBVltE6Orw0AzUxGySlPbwt2ydKkX8Me0iHCW+ne+sJnbo5aR\nLebynqrv9yPQy9HYGf3hiBuCOF7umUCdNpYkI76uLk+2Y6La5DjffN9NbDx3J0xt\nDZd7SJYfeQKBgCgSU1ItxSNyIUiLGD0sVPV9HgDLO7ljlTKQxVbdYY1l0hi0Dw5O\nd6CT5n/R1z3DKJB0j7xAd7gIqBd9W/Se4v3e7ZvDn3JS6RTDOV3cFO5X0b2qWCac\nCEUCMZ9WOfiJYgV2pFlrsF9cacZf8v4tZ16QkMkymI7PLbb+u4FybV4VAoGAYX6j\niEOXZIIKn0DsRdACAopT89P47qRZDNbUtkmE3N47X0yNk9ITZN5jggP85LSdoliN\n0OzMMVNk0bQkzi2Vc8uBUcNk0i/7gMEKFyN61jc/RGByXuCsgx7QgN9LpSGUFqOr\n+vKShOrl4hS1Eh4AXX96RGFsovIbYJhZNLj5IUkCgYBUavIdgMe8Jxm/Jreosjno\nNf6FNprUI+AmURDSA8Vzy+0pw68xqdZm4QFogqtSM8Lw/U2K9tem9aH3mAUSGg9l\ncOXD8h1Ojdvn2scY/sCHntXLgIAVhcc58qMvoPpqPqxYBVPkSeCMv7LraEGzf1Wi\nxWgXKZ3PRdUJGPfjBhS30w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "redwine@divine-builder-342012.iam.gserviceaccount.com",
+  "client_id": "112100684597803672907",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/redwine%40divine-builder-342012.iam.gserviceaccount.com"
+}
